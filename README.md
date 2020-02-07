@@ -8,11 +8,13 @@
 
 ### Como usar?
 
-# 1° Clonar o projeto
+### 1° Clonar o projeto
 
-# 2° Instalar as dependências com o comando (npm install)
+### 2° Instalar as dependências com o comando (npm install)
 
-# 3° Por padrão será aberto automaticamente na url: localhost:3000 do seu navegador, caso não abra, basta acessar a url manualmente.
+### 3° Execute o comando: npm start 
+
+### obs: (Por padrão será aberto automaticamente na url: localhost:3000 do seu navegador, caso não abra, basta acessar a url manualmente).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
